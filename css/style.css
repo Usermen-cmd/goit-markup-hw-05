@@ -492,6 +492,7 @@ button,
   background-position: center;
   background-repeat: no-repeat;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
 /* PORTFOLIO */
 /* filters buttons */
